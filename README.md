@@ -14,7 +14,7 @@ I build data pipelines that are tested, reproducible and easy to run: from raw f
 clean warehouse model and the dashboards on top of it. I care about the DataOps side of the
 job: version control, automated tests, CI and containers, so that the numbers can be trusted.
 
-- 🎓 Engineering student at **ESEO**
+- 🎓 Engineering Graduate at **ESEO**
 - 🔭 Currently building end-to-end analytics projects with **dbt** and **PostgreSQL**
 - 🎯 Looking for a full-time (CDI) **Data Engineer / DataOps** position
 
