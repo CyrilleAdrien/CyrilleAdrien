@@ -58,6 +58,6 @@ End-to-end analytics pipeline on ~100,000 orders from a Brazilian marketplace.
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Sudoku solver](https://github.com/CyrilleAdrien/sudoku-solver) | Sudoku solver | C |
-| [Connect Four](https://github.com/CyrilleAdrien/connect-four) | Connect Four strategy game | Java |
-| [MyZoo](https://github.com/CyrilleAdrien/my-zoo) | Web app to manage the animals of a zoo park | PHP, React |
+| [Sudoku solver](https://github.com/CyrilleAdrien/Resolution-du-Sudoku) | Sudoku solver | C |
+| [Connect Four](https://github.com/CyrilleAdrien/Jeu_Puissance_4) | Connect Four strategy game | Java |
+| [MyZoo](https://github.com/CyrilleAdrien/MyZoo) | Web app to manage the animals of a zoo park | PHP, React |
