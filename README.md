@@ -52,7 +52,7 @@ End-to-end analytics pipeline on ~100,000 orders from a Brazilian marketplace.
 - **dbt** layers (staging, intermediate, marts) with a star schema and automated data tests
 - Fully containerised with **Docker**, rebuilt from scratch with a single `make all`
 - **GitHub Actions** CI runs the whole pipeline and the tests on every pull request
-- **Power BI** and **Tableau** dashboards that show exactly the same KPIs
+- **Power BI** and **Tableau** dashboards with the same headline KPIs (revenue, orders, basket, review score)
 
 ### Other projects
 
