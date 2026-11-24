@@ -81,6 +81,10 @@ An AI agent that answers business questions in French on the Olist warehouse and
 - Measured on 30 questions with reference SQL: **29 / 30** answered correctly, median 5.4 s per question on a laptop
 - **Streamlit** chat interface, unit and integration tests in **GitHub Actions**
 
+<p align="center">
+  <a href="https://github.com/CyrilleAdrien/olist-ai-analyst"><img src="https://raw.githubusercontent.com/CyrilleAdrien/olist-ai-analyst/main/docs/olist-ai-analyst-architecture.svg" alt="Olist AI Analyst architecture" width="820"></a>
+</p>
+
 #### [Olist Analytics](https://github.com/CyrilleAdrien/Olist-Analytics) &nbsp;[![CI](https://github.com/CyrilleAdrien/Olist-Analytics/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/CyrilleAdrien/Olist-Analytics/actions/workflows/ci.yml)
 
 End-to-end analytics pipeline on ~100,000 orders from a Brazilian marketplace, the warehouse
@@ -91,6 +95,10 @@ that Olist AI Analyst reads.
 - Fully containerised with **Docker**, rebuilt from scratch with a single `make all`
 - **GitHub Actions** CI runs the whole pipeline and the tests on every pull request
 - **Power BI** and **Tableau** dashboards with the same headline KPIs (revenue, orders, basket, review score)
+
+<p align="center">
+  <a href="https://github.com/CyrilleAdrien/Olist-Analytics"><img src="https://raw.githubusercontent.com/CyrilleAdrien/Olist-Analytics/main/docs/olist-architecture.svg" alt="Olist Analytics architecture" width="820"></a>
+</p>
 
 ### Other projects
 
